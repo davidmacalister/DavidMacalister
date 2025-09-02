@@ -18,5 +18,5 @@ I'm a fan of **Valve games** and their engines, and I also create **translation 
 | [Half-Life 2 Textures PT-BR](https://www.sourcebr.com.br/projetos/half-life-2-tradu%C3%A7%C3%A3o-completa) | The complete Half-Life 2 Translation Project comes from the partnership between Source BR and Mesa Preta Dubs, bringing the game entirely in Portuguese Brazilian. |
 | [Ricochet Translation PT-BR](https://github.com/source-br/Community-Translations-for-Ricochet) | The complete Ricochet Translation Project brings the game entirely in Brazilian Portuguese. |
 | Xash3D Translation PT-BR | Android interface and extra.pak translation |
-| Narbacular Drop Translation | (⚠️ in development) |
+| [Community Translations for Narbacular Drop](https://github.com/source-br/Community-Translations-for-Narbacular-Drop) | |
 | Communty Translations for GoldSrc | (⚠️ in development) |
