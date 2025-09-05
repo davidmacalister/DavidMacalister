@@ -1,4 +1,6 @@
-# Hi, I'm David 👋
+![plaza](https://github.com/user-attachments/assets/18d05813-e178-40ff-81ac-b6594fbd9a9a)
+
+<h1 align="center">Hi, I'm David</h1>
 
 I maintain **Source BR** and contribute to projects that interest me.
 
@@ -18,5 +20,5 @@ I'm a fan of **Valve games** and their engines, and I also create **translation 
 | [Half-Life 2 Textures PT-BR](https://www.sourcebr.com.br/projetos/half-life-2-tradu%C3%A7%C3%A3o-completa) | The complete Half-Life 2 Translation Project comes from the partnership between Source BR and Mesa Preta Dubs, bringing the game entirely in Portuguese Brazilian. |
 | [Ricochet Translation PT-BR](https://github.com/source-br/Community-Translations-for-Ricochet) | The complete Ricochet Translation Project brings the game entirely in Brazilian Portuguese. |
 | Xash3D Translation PT-BR | Android interface and extra.pak translation |
-| [Community Translations for Narbacular Drop](https://github.com/source-br/Community-Translations-for-Narbacular-Drop) | |
+| [Community Translations for Narbacular Drop](https://github.com/source-br/Community-Translations-for-Narbacular-Drop) | The complete Narbacular Drop Translation Project brings the game entirely in Brazilian Portuguese. |
 | Communty Translations for GoldSrc | (⚠️ in development) |
