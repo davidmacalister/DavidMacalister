@@ -21,4 +21,4 @@ I'm a fan of **Valve games** and their engines, and I also create **translation 
 | [Ricochet Translation PT-BR](https://github.com/source-br/Community-Translations-for-Ricochet) | The complete Ricochet Translation Project brings the game entirely in Brazilian Portuguese. |
 | Xash3D Translation PT-BR | Android interface and extra.pak translation |
 | [Community Translations for Narbacular Drop](https://github.com/source-br/Community-Translations-for-Narbacular-Drop) | The complete Narbacular Drop Translation Project brings the game entirely in Brazilian Portuguese. |
-| Communty Translations for GoldSrc | (⚠️ in development) |
+| [Communty Translations for GoldSrc](https://github.com/source-br/Community-Translations-for-GoldSrc) | ⚠️ in development |
